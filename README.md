@@ -1,10 +1,13 @@
-# Olá, eu sou o João Felipe 👋
+<div align="center">
 
-Desenvolvedor **full-stack** focado em **automação**. Construo bots, dashboards e integrações
-que tiram trabalho repetitivo das pessoas, de alertas com IA no Telegram a atendimento
-automatizado no WhatsApp.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full-stack;Automa%C3%A7%C3%A3o+com+Python+e+TypeScript;Bots+%C2%B7+Dashboards+%C2%B7+IA+aplicada" alt="Desenvolvedor Full-stack · Automação com Python e TypeScript · Bots, dashboards e IA aplicada" />
 
 📍 Porto Alegre, RS · 💼 [LinkedIn](https://www.linkedin.com/in/joao-felipe-motta-duarte/)
+
+</div>
+
+Construo bots, dashboards e integrações que tiram trabalho repetitivo das pessoas, de alertas
+com IA no Telegram a atendimento automatizado no WhatsApp.
 
 ## 🛠️ Stack
 
@@ -32,3 +35,18 @@ automatizado no WhatsApp.
 - **Automação de infraestrutura:** scripts e playbooks que reduzem tarefas manuais de operação
 - **Dashboards e relatórios:** dados de monitoramento transformados em visão clara para o time
 - **IA aplicada:** LLMs como etapa de decisão dentro de pipelines, com saída estruturada e validação
+
+## 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofelipeiaa&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=joaofelipeiaa&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaofelipeiaa/joaofelipeiaa/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/joaofelipeiaa/joaofelipeiaa/output/snake.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições" />
+</picture>
+
+</div>
